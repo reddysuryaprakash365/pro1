@@ -163,7 +163,7 @@
     </div>
     <div class="fotter text-center p-4 bg-dark d-md-none">
         <img src="https://res.cloudinary.com/dige-school/image/upload/v1657949086/Capture23_bczeqm.jpg" class="bottomimgone">
-        <h1 class="emailidone">hotelvista@gmail.com</h1>
+	<h1 class="emailidone">hotelvista@gmail.com</h1>
         <p class="addressone">42A, Jubilee Hills, Road no-5, <br>Hyderabad, Telangana, 500033.</p>
     </div>
 </body>
