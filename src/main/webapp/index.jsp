@@ -52,7 +52,7 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="card p-3 mb-2 text-center">
                         <img src="https://res.cloudinary.com/dige-school/image/upload/v1657954651/executive-suites-with-or-without-ocean-views_724_x_407_tpjjcx.jpg" class="imgone w-100">
-                        <h1 class="titels mt-4">Beach View Room</h1>
+			<h1 class="titels mt-4">Rooms Infront of Beach</h1> 
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
